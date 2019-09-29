@@ -1,0 +1,13 @@
+body {
+  padding-top: 75px;
+  padding-bottom: 75px;
+  background-color:none;
+}
+label {
+  font-weight: bold;
+}
+a,
+a:hover {
+  text-decoration: none;
+}
+
